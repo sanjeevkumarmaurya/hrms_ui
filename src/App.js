@@ -17,20 +17,6 @@ function App() {
       <p>this is a test line</p>
       <p>this is a test line</p>
       <p>this is a test line</p>
-      <p>this is a test line</p>
-      <p>this is a test line</p>
-      <p>this is a test line</p>
-      <p>this is a test line</p>
-      <p>this is a test line</p>
-      <p>this is a test line</p>
-      <p>this is a test line</p>
-      <p>this is a test line</p>
-      <p>this is a test line</p>
-      <p>this is a test line</p>
-      <p>this is a test line</p>
-      <p>this is a test line</p>
-      <p>this is a test line</p>
-      <p>this is a test line</p>
     </div>
   );
 }

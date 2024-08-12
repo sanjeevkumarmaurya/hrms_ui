@@ -1,7 +1,0 @@
-version: '1.0'
-deployment:
-  build:
-    path: ./build
-    output: ./dist
-  environment:
-    NODE_ENV: production
