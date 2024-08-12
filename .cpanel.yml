@@ -1,7 +1,5 @@
-version: '1.0'
+---
 deployment:
-  build:
-    path: ./build
-    output: ./dist
-  environment:
-    NODE_ENV: production
+  tasks:
+    - export DEPLOYPATH=/home/zjdevteo/public_html/
+    - /bin/cp * $DEPLOYPATH
